@@ -16,6 +16,7 @@ public class StateTitle extends State
 
     public void keyPressed(InputKeyboardKey key)
     {
+        System.out.println();
         Engine.setState(new StateBattle());
     }
 

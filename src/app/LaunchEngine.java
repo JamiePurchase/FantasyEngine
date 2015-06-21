@@ -1,6 +1,6 @@
 package app;
 
-public class Launch
+public class LaunchEngine
 {
     public static void main(String args[])
     {
